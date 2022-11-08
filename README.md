@@ -1,7 +1,7 @@
 # UI Prototyping Library and Example
 Example how Corola creates user interfaces for demonstrators.
 
-This repository contains the library and a minimum working example of how we implement web-based UIs for our demonstrators (see [Link to Blog](#) for more details).
+This repository contains the library and a minimum working example of how we implement web-based UIs for our demonstrators (see [Link to Blog](#) for more details on the implementation).
 
 ![](img/ui_prototyping_animation.gif)
 
@@ -13,3 +13,6 @@ This repository contains the library and a minimum working example of how we imp
 - Strip the example SVG file with `make svg`
 - Run the server with `make serve`
 - Access the website with at http://localhost:5000
+
+## License
+This project is released under the General Public License v3. The bundled [jQuery](https://jquery.com/) source code is licensed under the [jQuery license](https://jquery.org/license/) and the bundled [anime.js](https://animejs.com/) source code is licensed under the MIT license.

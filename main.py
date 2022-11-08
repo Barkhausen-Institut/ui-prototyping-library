@@ -1,3 +1,7 @@
+# Created by Maximilian Matthe, Barkhausen Institut, 2022
+# Licensed under General Public License v3
+
+
 import flask
 from flask import Flask, send_from_directory
 

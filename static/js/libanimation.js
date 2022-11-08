@@ -1,3 +1,8 @@
+/*
+  Created by Maximilian Matthe, Barkhausen Institut, 2022
+  Licensed under General Public License v3
+*/
+
 'use strict';
 
 function shiftXY(obj, xy) {
