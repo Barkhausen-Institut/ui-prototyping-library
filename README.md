@@ -1,7 +1,7 @@
 # UI Prototyping Library and Example
 Example how the CoRoLa group of the [Barkhausen Institut](https://www.barkhauseninstitut.org/) creates user interfaces for demonstrators.
 
-This repository contains the library and a minimum working example of how we implement web-based UIs for our demonstrators (see [Link to Blog](#) for more details on the implementation).
+This repository contains the library and a minimum working example of how we implement web-based UIs for our demonstrators (see [Link to Blog](https://www.barkhauseninstitut.org/en/research/lab-1/our-blog/posts/ui-prototyping) for more details on the implementation).
 
 ![](img/ui_prototyping_animation.gif)
 
